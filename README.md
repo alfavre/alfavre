@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfavre, it's a contraction of Alban Favre, which is my name
-- 👀 I’m interested in a lot of what makes geek culture
+- 👀 I’m interested in computers, Linux, analog technologies, gaming and graphic novels 
 - 🌱 I’m currently learning cryptography and computer sciences in the HES-SO in switzerland
-- 📫 How to reach me: alban.favre@heig-vd.ch
+- 📫 How to reach me: alban.favre@master.hes-so.ch
 - Have a nice day.
